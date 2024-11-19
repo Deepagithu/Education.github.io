@@ -1,0 +1,105 @@
+*,::after,::before
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container
+{
+    border: 2px solid white;
+    background-color: white;
+    display: flex;
+    position: fixed;
+    width: 100%;
+}
+img
+{
+    margin-left:10%;
+    margin-top:20px;
+}
+.link
+{
+    margin-left: 130px;
+    margin-top: 35px;
+}
+ .link:hover
+{
+  background-color: aqua;
+  height: 20px;
+}
+.div1
+{
+   background-color: rgb(8, 181, 239);
+   height: 300px;
+   text-align: center;
+}
+.name
+{
+    padding-top: 100px;
+}
+.card
+{
+    padding-top: 20px;
+     color:  white;
+}
+.card1
+{
+    padding-top: 20px;
+    color:  white;
+}
+.phn
+{
+    width: 50%;
+
+}
+.link2
+{
+margin-left: 100px;
+padding-top: 20px;
+}
+.link4,a
+{
+margin-left: 100px;
+padding-top: 20px;
+text-decoration: none;
+}
+address
+{
+    margin-left: 100px;
+    padding-top: 20px;  
+    color: blue;
+}
+.form
+{
+    margin-left:50%;
+    margin-top: -30%;
+    padding-left:10%;
+}
+.fram
+{
+margin-top:10%;
+}
+.link10
+{
+    margin-left: 5%;
+    padding-top: 2%;
+    color: white;
+}
+
+.Top
+{
+    height: 250px;
+    background-color: darkblue;
+    color: antiquewhite;
+}
+.Top1
+{
+    padding-top:2%;
+  margin-left: 10%;
+}
+.Course
+{
+    padding-top:2%;
+    margin-left: 40%;  
+    margin-top: -16%;
+}

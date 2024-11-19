@@ -1,0 +1,123 @@
+*,::after,::before
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container
+{
+    border: 2px solid white;
+    background-color: white;
+    display: flex;
+    position: fixed;
+    width: 100%;
+}
+img
+{
+    margin-left:10%;
+    margin-top:20px;
+}
+.link
+{
+    margin-left: 130px;
+    margin-top: 35px;
+}
+a{
+    text-decoration: none;
+}
+ .link:hover
+{
+  background-color: aqua;
+  height: 20px;
+}
+button
+{
+     border: 2px solid gray;
+     border-radius: 10px;
+     width:10%;
+     color:black;
+     background-color: lightblue;
+     margin-top: 7%; 
+     margin-left: 46%;  
+
+}
+.div1
+{
+    background-color:rgb(78, 125, 227);
+    height:350px;
+}
+.hiv1
+{
+    margin-left: 38%;
+    color: white;
+    padding-top:2%;
+}
+.hiv2
+{
+    margin-left: 30%;
+    color: white; 
+    line-height:25px;
+}
+.hiv3
+{
+    margin-left: 26%;
+}
+.img1
+{
+    width:50%;
+}
+.img2
+{
+    line-height: 25px;
+    margin-left: 15%;
+    padding-top: 3%;    
+}
+h1
+{
+    margin-left: 15%;
+    padding-top:15%; 
+}
+.img7
+{
+    margin-left: 50%;
+    margin-top: -29%;
+}
+.img6
+{
+    margin-left: 15%;
+    line-height: 25px;
+    padding-top: 3%;
+}
+.img10
+{
+    margin-left: 52%;
+    margin-top: -29%;  
+}
+.img11
+{
+    margin-left: 15%;
+    line-height: 25px;
+}
+.img12
+{
+    margin-left: 15%;
+    line-height: 25px;  
+}
+.Top
+{
+    height: 250px;
+    background-color: darkblue;
+    color: antiquewhite;
+   margin-top: 10%;
+}
+.Top1
+{
+    padding-top:2%;
+  margin-left: 10%;
+}
+.Course
+{
+    padding-top:2%;
+    margin-left: 40%;  
+    margin-top: -16%;
+}

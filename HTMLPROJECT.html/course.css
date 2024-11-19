@@ -1,0 +1,220 @@
+*,::after,::before
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container
+{
+    border: 2px solid white;
+    background-color: white;
+    display: flex;
+    width: 100%;
+}
+img
+{
+    margin-left:10%;
+    margin-top:20px;
+}
+.link
+{
+    margin-left: 130px;
+    margin-top: 35px;
+}
+ .link:hover
+{
+  background-color: aqua;
+  height: 20px;
+}
+.div2
+{
+    background-color: rgb(29, 134, 209);
+    height:600px;
+    width: 100%;
+}
+.div
+{
+width:50%;
+height:600px;
+}
+ .div5
+{
+    padding-top:5%;
+    margin-left: 10%;
+    color: white;
+    font-weight: 700;
+}
+.div6
+{
+    padding-top:5%;
+    margin-left: 10%;
+    color: white;
+    font-weight: 700;
+}
+.div10
+{
+    margin-left: 10%;
+    color: white;
+    font-weight: 700; 
+    font-size: large; 
+}
+.div9
+{
+    border: 2px solid gray;
+    width: 20%;
+    margin-left: 5%;
+    margin-top: -25%;
+    background-color: white;
+    border-radius: 6px;
+    height:15%;
+}
+.link45{
+    padding-left:15%;
+}
+.link46
+{
+    padding-top: 3%;
+}
+.link47,.link48
+{
+    padding-top: 1%;
+}
+.div13
+{
+    border: 2px solid gray;
+    width: 20%;
+    margin-left: 25%;
+    margin-top: -6.5%;
+    background-color: white;
+    border-radius: 6px;
+    height:15%;
+}
+.link40{
+    padding-left:15%;
+}
+.link49
+{
+    padding-top: 3%;
+}
+.link50,.link51
+{
+    padding-top: 1%;
+} 
+.link00
+{
+    color: black;
+    margin-left: 8%;
+    padding-top: 2%;
+    font-weight:800;
+}
+.form
+{
+    margin-left:52%;
+    margin-top: -40%;
+    padding-left:6%;
+    background-color: white;
+    width: 45%;
+    height:500px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.link22
+{
+    border: 2px solid gray;
+    border-radius: 20px;
+    width: 70%;
+    height:40px;
+    margin-top:2%; 
+    margin-left:10%;
+    background-color: blue;
+    font-size: large;
+}
+input
+{
+    padding:2%;
+    border-radius:5px;
+    margin-left:20%;
+}
+.link09
+{
+  margin-left:1%;
+}
+.link76{
+    padding-top: 10%;
+    margin-left:20%;
+}
+label
+{
+    margin-left:20%;    
+}
+.link01
+{
+    margin-top: 10%;
+}
+.link110
+{
+   text-align: center;
+}
+.link111
+{
+    margin-left: 20%;
+    line-height:20pxs;
+}
+.inside2
+{
+    text-transform: capitalize;
+    padding-top:7%;
+    margin-left:10%;
+}
+.inside4
+{
+    margin-top: 4%;
+}
+.inside3
+{
+    margin-left:10%;
+    line-height: 40px;
+}
+.inside1
+{
+    width:50%;
+}
+.inside8
+{
+    margin-left:55%;
+    margin-top: -20%;
+}
+.image1
+{
+  border-radius: 30px;
+}
+.inside11
+{
+  padding-top: 7%;
+}
+.inside12
+{
+    margin-left: 33%;
+}
+.inside13
+{
+    margin-left:14%;
+}
+.Top
+{
+    margin-top: 10%;
+    height: 250px;
+    background-color: darkblue;
+    color: antiquewhite;
+}
+.Top1
+{
+ padding-top:2%;
+  margin-left: 10%;
+}
+.Course
+{
+    padding-top:2%;
+    margin-left: 40%;  
+    margin-top: -16%;
+}
